@@ -1,3 +1,4 @@
-Profile:
+Profile: SuSee
 
-Name: SuSee
+Fav City: DallaS
+Fav Animal: Chetah
