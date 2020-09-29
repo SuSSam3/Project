@@ -2,6 +2,6 @@ Profile: SuSee
 
 Fav City: DallaS
 Fav Animal: Chetah
-Fav Color: Blue
+Fav Color: Red!
 
 copyright at the bottom
